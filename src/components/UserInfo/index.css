@@ -1,0 +1,16 @@
+.profile-img {
+  height: 5rem;
+}
+.user-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.user-name {
+  margin: 0px;
+  padding: 0.3rem;
+}
+.user-designation {
+  margin: 0px;
+  padding: 0.3rem;
+}
